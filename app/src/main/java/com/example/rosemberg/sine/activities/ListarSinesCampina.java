@@ -1,11 +1,12 @@
 package com.example.rosemberg.sine.activities;
 
+import android.app.Activity;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.example.rosemberg.sine.R;
 
-public class ListarSinesCampina extends AppCompatActivity {
+public class ListarSinesCampina extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

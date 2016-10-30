@@ -17,7 +17,8 @@
         android:background="@drawable/list1"
         android:layout_alignParentTop="true"
         android:layout_alignLeft="@+id/imageButton2"
-        android:layout_alignStart="@+id/imageButton2" />
+        android:layout_alignStart="@+id/imageButton2"
+        android:onClick="ListarSines"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -35,7 +36,8 @@
         android:background="@drawable/list2"
         android:layout_above="@+id/textView2"
         android:layout_alignRight="@+id/textView"
-        android:layout_alignEnd="@+id/textView" />
+        android:layout_alignEnd="@+id/textView"
+        android:onClick="ListarSinesCampina"/>
 
     <TextView
         android:layout_width="wrap_content"

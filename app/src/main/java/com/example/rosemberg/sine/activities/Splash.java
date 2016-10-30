@@ -1,12 +1,13 @@
 package com.example.rosemberg.sine.activities;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.example.rosemberg.sine.R;
 
-public class Splash extends AppCompatActivity {
+public class Splash extends Activity {
 
     int counter = 0;
 

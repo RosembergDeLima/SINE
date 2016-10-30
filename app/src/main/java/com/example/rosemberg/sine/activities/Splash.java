@@ -1,9 +1,10 @@
-package com.example.rosemberg.sine;
+package com.example.rosemberg.sine.activities;
 
 import android.content.Intent;
-import android.support.v4.app.ShareCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.rosemberg.sine.R;
 
 public class Splash extends AppCompatActivity {
 

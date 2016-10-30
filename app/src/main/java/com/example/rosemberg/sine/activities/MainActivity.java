@@ -1,7 +1,9 @@
-package com.example.rosemberg.sine;
+package com.example.rosemberg.sine.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.rosemberg.sine.R;
 
 public class MainActivity extends AppCompatActivity {
 
